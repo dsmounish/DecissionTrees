@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Sreenivas.J
+@author: Mounish Reddy Gaddam
 """
 #DecissionTree and Predict methods are very important in this example. This is the real starting/building of ML
 #Here we will be playing with more columns. However DecisionTreeClassifier algorithm works only on numeric/continuous data/columns
